@@ -2,5 +2,5 @@ altair
 numpy
 pandas
 pydeck
-streamlit
-openai==0.25.0
+streamlit==1.2.0
+openai==0.27.0
